@@ -4,16 +4,18 @@
 }
 
 .mtk4 {
-  color: #6d77b3;
+  color: #fdfdfd;
+  text-shadow: 0 0 2px #001716, 0 0 3px #6d77b3, 0 0 5px #6d77b3, 0 0 8px #6d77b3
 }
 
 .mtk5 {
-  color: #f97e72;
+  color: #fdfdfd;
+  text-shadow: 0 0 2px #001716, 0 0 3px #8c00ff, 0 0 5px #8c00ff, 0 0 8px #8c00ff
 }
 
 .mtk6 {
   color: #fdfdfd;
-  text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975;
+  text-shadow: 0 0 2px #001716, 0 0 3px #0330f9, 0 0 5px #0330f9, 0 0 8px #0330f9;
 }
 
 .mtk7 {
@@ -30,7 +32,10 @@
   color: #f4eee4;
   text-shadow: 0 0 2px #393a33, 0 0 8px #f39f0575, 0 0 2px #f39f0575;
 }
-
+.mtk10{
+  color: #fdfdfd;
+  text-shadow: 0 0 2px #001716, 0 0 3px #ff7b00, 0 0 5px #ff7b00, 0 0 8px #ff7b00
+}
 .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
   background: transparent;
 }
