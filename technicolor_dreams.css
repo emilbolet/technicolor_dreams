@@ -37,8 +37,8 @@
   text-shadow: 0 0 2px #001716, 0 0 3px #ff7b00, 0 0 5px #ff7b00, 0 0 8px #ff7b00
 }
 .mtk14{
-  color: #ff8b39;
-  text-shadow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px #fff3;
+  color: #fdfdfd;
+  text-shadow: 0 0 2px #001716, 0 0 5px #bf4f00, 0 0 10px #ff7b00;
 }
 .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
   background: transparent;
